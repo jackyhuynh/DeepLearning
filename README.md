@@ -5,6 +5,13 @@
 - Course is create by [Kirill Eremenko](https://www.udemy.com/user/kirilleremenko/),
 [Hadelin de Ponteves](https://www.udemy.com/user/hadelin-de-ponteves/),
 and [Ligency I Team](https://www.udemy.com/user/superdatascience-team/)
+
+## Note from the Instructors:
+[![Watch the video](https://github.com/jackyhuynh/data_science-visualization-ML-DL-AI_notebook/blob/main/Python_DeepLearning/images/What%20is%20deep%20learning.JPG)](https://www.udemy.com/course/deeplearning/)
+- the projects in this directory are come from Deep Learning.
+- Please click on the link for the original <a href="https://www.udemy.com/course/deeplearning/">source</a>.
+
+
 ## Technology
 List of technology
 - R Studio
