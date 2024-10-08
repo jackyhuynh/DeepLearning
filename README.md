@@ -1,4 +1,4 @@
-# Deep Learning In Practice
+# Deep Learning
 
 ## Introduction
 - Deep Learnig in Practice is a collection of exercise and code that I learn from [Deep Learning A-Z](https://www.udemy.com/course/deeplearning/)
